@@ -88,4 +88,4 @@ Explicação escrita de cada dashboard desenvolvido
 
 📎 Autor
 
-Case resolvido por: [Lucca Carnaúba Peixoto Rosário]LinkedIn: [https://www.linkedin.com/in/luccacpr]
+Case resolvido por: [Lucca Carnaúba Peixoto Rosário] LinkedIn: [https://www.linkedin.com/in/luccacpr]
